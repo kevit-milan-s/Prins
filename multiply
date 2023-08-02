@@ -1,0 +1,5 @@
+console.write("use this function to ckeck the number multiplication")
+var num1 = promt("enter first the number ")
+var num2 = promt("enter second number ")
+var result = num1*num2;
+println("the ans is " + result);
